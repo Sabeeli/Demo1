@@ -41,3 +41,11 @@ def cube(x):
 
 print(cube(3))
 
+//vidhya-reverse
+n=123
+rev=0
+while num!=0:
+    dig=n%10
+    rev=rev*10+dig
+    num//10
+print(rev)
