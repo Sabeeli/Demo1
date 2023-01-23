@@ -7,6 +7,10 @@ print (sum)
 //gayac-multiplication
 //dhivya-division
 //gayat-square
+n=2
+square=n*n
+print(square)
+
 //sindhu-addition
 //suba-subtraction
 //prath-square
