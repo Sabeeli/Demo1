@@ -10,6 +10,9 @@ print (sum)
 //sindhu-addition
 //suba-subtraction
 //prath-square
+n=2
+square=n**2
+print(square)
 //madhu-cube
 def cube(x):
     return x**3
