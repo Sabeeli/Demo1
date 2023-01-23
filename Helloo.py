@@ -8,3 +8,6 @@
 //prath-square
 //madhu-cube
 
+n=4
+square=n**2
+print(square)
