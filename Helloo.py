@@ -1,15 +1,10 @@
-print(sabeeli)
-
-print(aksh)
-print(name)
-print(harinee)
-
-print(madhu)
-print(prathi)
-print(sneha)
-ptint(gayac)
-print(dhivya)
-print(gayat)
-print(sindhu)
-print(suba)
+//harinee-addition
+//sneha-subtraction
+//gayac-multiplication
+//dhivya-division
+//gayat-square
+//sindhu-addition
+//suba-subtraction
+//prath-square
+//madhu-cube
 
