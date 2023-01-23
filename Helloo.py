@@ -22,6 +22,11 @@ print(square)
 
 //sindhu-addition
 //suba-subtraction
+number1=10
+number2=7
+number=number1-number2
+print(number)
+
 //prath-square
 n=2
 square=n**2
