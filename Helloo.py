@@ -4,6 +4,10 @@ y = 2
 sum =x+y
 print (sum)
 //sneha-subtraction
+num1 = 5
+num2 = 3
+number = num1 - num2
+print(number)
 //gayac-multiplication
 num_1 = 11
 num_2 = 3
