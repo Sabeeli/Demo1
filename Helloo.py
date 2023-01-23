@@ -11,6 +11,10 @@ product = num_1 * num_2
 print(product)
 
 //dhivya-division
+n1=6
+n1=2
+result=n1/num_2
+print(result)
 //gayat-square
 n=2
 square=n*n
