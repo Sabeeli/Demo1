@@ -51,3 +51,4 @@ while num!=0:
 print(rev)
 
 //akshaya
+print("123")
